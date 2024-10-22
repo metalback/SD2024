@@ -1,0 +1,11 @@
+# Ignorar el entorno virtual
+venv/
+
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar archivos temporales de Python
+__pycache__/
+*.pyc
+
+sd2024.json

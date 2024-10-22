@@ -1,0 +1,4 @@
+atproto
+google-cloud
+python-dotenv
+google-cloud-pubsub
